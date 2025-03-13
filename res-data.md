@@ -1,2 +1,2 @@
-Observing Micromotives and Macrobehavior of Large Language Models
-Large Language Models: An Applied Econometric Framework
+- Observing Micromotives and Macrobehavior of Large Language Models
+- Large Language Models: An Applied Econometric Framework
